@@ -64,6 +64,3 @@ graph TD
 - Add monitoring/logging
 
 ---
-
-## 6. License
-MIT 
