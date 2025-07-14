@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+
+# Virtual environments
+venv/
+.env/
+.envrc
+
+# Docker
+*.log
+docker-compose.override.yml
+
+# VSCode
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Test & coverage
+htmlcov/
+.coverage
+.tox/
+
+# Misc
+*.swp 
