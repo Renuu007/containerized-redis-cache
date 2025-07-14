@@ -30,7 +30,7 @@ See [`documentation.md`](documentation.md) for detailed architecture and diagram
 
 ### Clone the Repository
 ```sh
-git clone <your-repo-url>
+git clone <https://github.com/Renuu007/containerized-redis-cache>
 cd containerized-redis-cache
 ```
 
